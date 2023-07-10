@@ -141,3 +141,26 @@ gap: 5px;
 .text-red{
     color: #E55473;
 }
+
+.insta-container-main{
+    
+    padding-left: 80px;
+    padding-right: 80px;
+}
+.insta-text{
+    text-align: center;
+}
+.insta-img-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    width: 100px;
+    height: 150px;
+    margin: auto;
+}
+.insta-img-size{
+    width: 200px;
+    height: 150px;
+    
+}

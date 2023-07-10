@@ -65,6 +65,7 @@ gap: 5px;
 }
 .featured-container{
     padding-top: 80px;
+    padding-bottom: 80px;
 }
 .section-title{
     padding-bottom: 10px;
@@ -112,4 +113,31 @@ gap: 5px;
     font-size: 12px;
     padding-top: 8px;
 
+}
+.deal-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    padding-left: 80px;
+    padding-right: 80px;
+    padding-top: 80px;
+}
+.deal-image-container{
+    width:200px ;
+    height: 250px;
+    
+}
+.deal-img{
+    width:200px ;
+    height: 250px;
+}
+.deal-header{
+ padding-left: 50px;
+}
+.deal-text{
+    text-align: center;
+}
+.text-red{
+    color: #E55473;
 }

@@ -17,6 +17,7 @@ body{
     height: 100vh;
     gap: 20px;    
     background-color:rgba(229, 84, 115, 0.10);
+    width: fit-content;
 }
 
 .banner-text{

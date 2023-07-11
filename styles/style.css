@@ -15,7 +15,7 @@ body{
     justify-items: center;
     align-items: center;
     height: 100vh;
-
+    margin: auto;
     gap: 20px;    
     background-color:rgba(229, 84, 115, 0.10);
     

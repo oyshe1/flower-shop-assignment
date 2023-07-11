@@ -3,7 +3,12 @@
     padding: 0px;
     box-sizing: border-box;
     border: .5px solid red;
+   
     
+}
+
+body{
+    height: 100vh;
 }
 .banner-container{
     display: flex;
@@ -155,13 +160,13 @@ gap: 5px;
     align-items: center;
     justify-content: center;
     gap: 10px;
-    width: 100px;
-    height: 150px;
+    width: 162px;
+    height: 202px;
     margin: auto;
 }
 .insta-img-size{
-    width: 200px;
-    height: 150px;
+    width: 162px;
+    height: 202px;
     
 }
 .latest-deal-container{
@@ -189,9 +194,7 @@ gap: 5px;
     padding-left: 130px;
     gap: 7px;
 }
-.sub-btn{ 
 
-}
 .sub-input{
     padding: 10px 15px;
     width: 350px;
@@ -211,4 +214,39 @@ gap: 5px;
     padding-bottom: 10px;
     padding-top: 10px;
   
+}
+.footer-container{
+    background-color: black;
+    height: 200px;
+    margin-top: 80px;
+    margin-bottom: auto;
+
+   
+    
+}
+.footer-title{
+    padding-bottom: 10px;
+    font-weight: bolder;
+    color: rgba(255, 255, 255, 0.90);
+}
+.footer-description{
+   
+    color: rgba(255, 255, 255, 0.90);
+    
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 16px;
+    
+ 
+    padding-bottom: 10px;
+  
+}
+.footer-text{
+    text-align: center;
+    padding-top: 45px;
+    margin: auto;
+}
+.text-gray{
+    color: rgba(255, 255, 255, 0.40);
 }

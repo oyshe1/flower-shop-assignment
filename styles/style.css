@@ -2,7 +2,7 @@
     margin: 0px;
     padding: 0px;
     box-sizing: border-box;
-    border: .5px solid red;
+   
    
     
 }
@@ -265,4 +265,21 @@ gap: 5px;
 }
 .text-gray{
     color: rgba(255, 255, 255, 0.40);
+}
+
+.review-container{
+   text-align: center;
+   background-color: rgb(247, 229, 238);
+}
+.user-container{
+    
+    text-align: center;
+   
+    
+
+}
+.user-img{
+    width: 70px;
+    height: 70px;
+    border-radius: 35px;
 }

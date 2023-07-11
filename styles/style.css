@@ -37,12 +37,12 @@ line-height: 50px;
 
 }
 .banner-image{
-    margin-right: 50px;
+    margin-left: 50px;
 }
 .banner-img{
     width: 325px;
     height: 450px;
-    
+    margin-left: 50px;
     margin-top: 20px;
    
 }

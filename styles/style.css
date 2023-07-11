@@ -2,7 +2,7 @@
     margin: 0px;
     padding: 0px;
     box-sizing: border-box;
-    
+    border: .5px solid red;
    
     
 }
@@ -15,7 +15,7 @@ body{
     justify-items: center;
     align-items: center;
     height: 100vh;
-    width: 100vw;
+
     gap: 20px;    
     background-color:rgba(229, 84, 115, 0.10);
     
@@ -35,6 +35,9 @@ padding-left: 50px;
 padding-bottom: 10px;
 line-height: 50px;
 
+}
+.banner-image{
+    margin-right: 50px;
 }
 .banner-img{
     width: 325px;
